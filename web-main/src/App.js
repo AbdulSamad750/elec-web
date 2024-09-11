@@ -4,7 +4,7 @@ import {
   RouterProvider
 } from "react-router-dom";
 import './App.css';
-import ProductDetail from './features/product-list/components/ProductDetail.js';
+import ProductDetail from './features/product/components/ProductDetail.js';
 import Cartpage from './pages/Cartpage.js';
 import Checkout from './pages/Checkout.js';
 import Home from './pages/Home';
